@@ -13,7 +13,7 @@ build:
 
 deploy:
     context: jojin77/DEV
-    replicas: 1
+    replicas: 4
     port:
     - 8080
     - 80
